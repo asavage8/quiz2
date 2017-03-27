@@ -1,0 +1,19 @@
+h2{
+  text-align: center;
+  font: bold 35px helvetica, serif;
+}
+
+h3{
+  text-align: center;
+  align-self:  center;
+  font: bold 20px helvetica, serif;
+}
+
+p{
+  text-align: center;
+  align-self:  center;
+  font: bold 15px helvetica, serif;
+}
+body{
+    background-color: lavender;
+}
